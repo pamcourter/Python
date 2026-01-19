@@ -3,9 +3,6 @@
 ##### I started learning python December 2025 so I'm still pretty new. I will be posting my favorite projects here. 
 
 ### Python projects
-- [First Project](datanotationtest_passURL.py) This first project was a test to create a python file to pass in a URL and it would pull the data from a table in the URL, transform it and redisplay a hidden message. I had to look up a lot of Python commands as I have not learned much yet, but I was able to get the program to work and display the code. I learned a lot about python error handling, lol. But sometimes that's the best way to learn.
-  
-  <img width="798" height="617" alt="image" src="https://github.com/user-attachments/assets/2e4a31ed-31d5-4a1b-a4ba-98e3b7f3249d" />
-
+- [First Project](FirstPrg.md) This project was my first attempt at Python, written for a resume test prompt that I was not ready for but accepted the challenge. 
 
 
